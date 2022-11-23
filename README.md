@@ -16,7 +16,7 @@ convert images into batches, split validation data and resize images to 224 (w,h
 
 
 ## 2- Import and train model 
-<img src = "src/loss.png"  width ="550"/>
+<img src = "src/loss.png"  width ="300"/>
 
 
 ## 4 - Save model
