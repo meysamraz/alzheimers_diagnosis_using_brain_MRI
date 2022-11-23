@@ -22,3 +22,19 @@ convert images into batches, split validation data and resize images to 224 (w,h
 ## 4 - Save model
 
 ## 5 - Create a GUI 
+
+
+## Run The Project 
+
+### Install Libraries
+
+```pip install -r requirements.txt```
+
+### Run 
+
+```streamlit run app.py```
+
+##  Libraries used in the project
+
+- [streamlit](https://streamlit.io/)
+- [fastai](https://www.fast.ai/)
