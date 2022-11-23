@@ -1,0 +1,3 @@
+
+fastai==2.7.10
+streamlit==1.15.1
